@@ -1,2 +1,2 @@
 # Build-a-Markdown-Previewer
-##VIEW[https://rataysh.github.io/BuildMarkdownPreviewer/]
+##VIEW [https://rataysh.github.io/BuildMarkdownPreviewer/]
