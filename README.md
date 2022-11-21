@@ -6,7 +6,6 @@
 ### - [my solutioin](https://rataysh.github.io/BuildMarkdownPreviewer/)
 
 ## Tools used
-### - JavaScript
-### - CSS
-### - Bootstrap
+### - React
+### - React-bootstrap
 ### - HTML
